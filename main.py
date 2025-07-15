@@ -5,13 +5,13 @@ from sklearn.model_selection import train_test_split
 
 
 # === ACTUAL PATH TO DATA ===
-DATA_DIR = r"1\Brain Tumor Data Set\Brain Tumor Data Set"
+DATA_DIR = r"1\Brain Tumor Data Set\Brain Tumor Data Set" # can edit your path according to your dataset location
 
 IMG_SIZE = (4,4) 
 
 
-FOLDER_TUMOR = "Brain Tumor"
-FOLDER_HEALTHY = "Healthy"  # Confirm this folder exists alongside Brain Tumor
+FOLDER_TUMOR = "Brain Tumor" # can change folder name according to your dataset
+FOLDER_HEALTHY = "Healthy"  
 
 # === Label Mapping ===
 LABEL_MAP = {
