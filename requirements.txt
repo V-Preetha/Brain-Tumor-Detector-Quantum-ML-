@@ -1,0 +1,7 @@
+torch
+pennylane<=0.33
+scikit-learn
+numpy<=1.23
+matplotlib
+streamlit
+Pillow

@@ -1,0 +1,7 @@
+*.npy
+*.pth
+__pycache__/
+*.zip
+.DS_Store
+.env
+.ipynb_checkpoints/
